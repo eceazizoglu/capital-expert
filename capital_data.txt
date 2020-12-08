@@ -1,0 +1,15 @@
+Turkey/Ankara
+France/Paris
+UK/London
+Denmark/Copenhagen
+Hungary/Budapest
+Spain/Madrid
+Germany/Berlin
+Austria/Vienna
+Australia/Canberra
+Portugal/Lisbon
+India/New Delhi
+Libya/Tripoli
+Greece/Athens
+China/Pekin
+Norway/Oslo
